@@ -28,4 +28,4 @@ This project is built with:
 - shadcn-ui
 - Tailwind CSS
 
-Live link: https://create-ai-careers.lovable.app/dashboard
+Live link: https://create-ai-careers.lovable.app/
